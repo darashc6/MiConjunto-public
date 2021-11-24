@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901202071664",
+    "project_id": "fluttermiconjunto",
+    "storage_bucket": "fluttermiconjunto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901202071664:android:6870b7d03a95964640e4b5",
+        "android_client_info": {
+          "package_name": "co.misocialmedia.mi_conjunto_residentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901202071664-f7rc3l44kl8b7291htr7h3hc0jdkde58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDso9AkcwlDhqucPfICaiP8zrK4qi3pSbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901202071664-f7rc3l44kl8b7291htr7h3hc0jdkde58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
